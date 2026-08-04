@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 538 274" width="538" height="274">
+  <defs>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.08"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="538" height="274" rx="14" fill="#fff5f7" stroke="#ffb6c1" stroke-width="2"/>
+
+  <!-- Title -->
+  <text x="25" y="32" font-family="Segoe UI, sans-serif" font-size="16" font-weight="bold" fill="#333">
+    achievements
+  </text>
+  <circle cx="140" cy="27" r="5" fill="#ffb6c1" opacity="0.5"/>
+  <circle cx="154" cy="27" r="5" fill="#dda0dd" opacity="0.5"/>
+  <circle cx="168" cy="27" r="5" fill="#ffb6c1" opacity="0.5"/>
+
+  
+  <!-- Systems Programming -->
+  <rect x="20" y="70" width="150" height="80" rx="12"
+        fill="white" stroke="#ffb6c1" stroke-width="1.5" filter="url(#shadow)"/>
+  <!-- icon circle -->
+  <circle cx="95" cy="92" r="16" fill="#ffb6c1" opacity="0.2"/>
+  <text x="95" y="97" font-size="18" text-anchor="middle">💻</text>
+  <!-- title -->
+  <text x="95" y="122" font-family="Segoe UI, sans-serif"
+        font-size="13" font-weight="bold" fill="#333" text-anchor="middle">Systems Programming</text>
+  <!-- desc -->
+  <text x="95" y="140" font-family="Segoe UI, sans-serif"
+        font-size="11" fill="#888" text-anchor="middle">C · algorithms · data structures</text>
+  <!-- Python -->
+  <rect x="194" y="70" width="150" height="80" rx="12"
+        fill="white" stroke="#ffb6c1" stroke-width="1.5" filter="url(#shadow)"/>
+  <!-- icon circle -->
+  <circle cx="269" cy="92" r="16" fill="#ffb6c1" opacity="0.2"/>
+  <text x="269" y="97" font-size="18" text-anchor="middle">🐍</text>
+  <!-- title -->
+  <text x="269" y="122" font-family="Segoe UI, sans-serif"
+        font-size="13" font-weight="bold" fill="#333" text-anchor="middle">Python</text>
+  <!-- desc -->
+  <text x="269" y="140" font-family="Segoe UI, sans-serif"
+        font-size="11" fill="#888" text-anchor="middle">automation · scripting</text>
+  <!-- Version Control -->
+  <rect x="368" y="70" width="150" height="80" rx="12"
+        fill="white" stroke="#ffb6c1" stroke-width="1.5" filter="url(#shadow)"/>
+  <!-- icon circle -->
+  <circle cx="443" cy="92" r="16" fill="#ffb6c1" opacity="0.2"/>
+  <text x="443" y="97" font-size="18" text-anchor="middle">🔧</text>
+  <!-- title -->
+  <text x="443" y="122" font-family="Segoe UI, sans-serif"
+        font-size="13" font-weight="bold" fill="#333" text-anchor="middle">Version Control</text>
+  <!-- desc -->
+  <text x="443" y="140" font-family="Segoe UI, sans-serif"
+        font-size="11" fill="#888" text-anchor="middle">Git · GitHub · CI/CD</text>
+  <!-- AdvX Hackathon -->
+  <rect x="20" y="174" width="150" height="80" rx="12"
+        fill="white" stroke="#ffb6c1" stroke-width="1.5" filter="url(#shadow)"/>
+  <!-- icon circle -->
+  <circle cx="95" cy="196" r="16" fill="#ffb6c1" opacity="0.2"/>
+  <text x="95" y="201" font-size="18" text-anchor="middle">🏆</text>
+  <!-- title -->
+  <text x="95" y="226" font-family="Segoe UI, sans-serif"
+        font-size="13" font-weight="bold" fill="#333" text-anchor="middle">AdvX Hackathon</text>
+  <!-- desc -->
+  <text x="95" y="244" font-family="Segoe UI, sans-serif"
+        font-size="11" fill="#888" text-anchor="middle">echo · uni-app · shipped</text>
+  <!-- Open Source -->
+  <rect x="194" y="174" width="150" height="80" rx="12"
+        fill="white" stroke="#ffb6c1" stroke-width="1.5" filter="url(#shadow)"/>
+  <!-- icon circle -->
+  <circle cx="269" cy="196" r="16" fill="#ffb6c1" opacity="0.2"/>
+  <text x="269" y="201" font-size="18" text-anchor="middle">📦</text>
+  <!-- title -->
+  <text x="269" y="226" font-family="Segoe UI, sans-serif"
+        font-size="13" font-weight="bold" fill="#333" text-anchor="middle">Open Source</text>
+  <!-- desc -->
+  <text x="269" y="244" font-family="Segoe UI, sans-serif"
+        font-size="11" fill="#888" text-anchor="middle">cs-journey · public projects</text>
+  <!-- ANU -->
+  <rect x="368" y="174" width="150" height="80" rx="12"
+        fill="white" stroke="#ffb6c1" stroke-width="1.5" filter="url(#shadow)"/>
+  <!-- icon circle -->
+  <circle cx="443" cy="196" r="16" fill="#ffb6c1" opacity="0.2"/>
+  <text x="443" y="201" font-size="18" text-anchor="middle">🎓</text>
+  <!-- title -->
+  <text x="443" y="226" font-family="Segoe UI, sans-serif"
+        font-size="13" font-weight="bold" fill="#333" text-anchor="middle">ANU</text>
+  <!-- desc -->
+  <text x="443" y="244" font-family="Segoe UI, sans-serif"
+        font-size="11" fill="#888" text-anchor="middle">B Advanced Computing</text>
+</svg>
