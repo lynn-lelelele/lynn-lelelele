@@ -2,12 +2,12 @@
 import os
 
 achievements = [
-    ("💻", "Systems Programming", "C · algorithms · data structures"),
-    ("🐍", "Python", "automation · scripting"),
-    ("🔧", "Version Control", "Git · GitHub · CI/CD"),
-    ("🏆", "AdvX Hackathon", "echo · uni-app · shipped"),
-    ("📦", "Open Source", "cs-journey · public projects"),
-    ("🎓", "ANU", "B Advanced Computing"),
+    ("🎓", "University of Auckland", "BSc Computer Science · 2027 S1"),
+    ("🧠", "ML Systems", "training · inference · performance"),
+    ("🐍", "Python", "projects · tests · documentation"),
+    ("🔧", "Version Control", "Git · GitHub · reproducible work"),
+    ("📚", "Learning in Public", "cs-journey"),
+    ("🚀", "Next Milestone", "BSc(Hons) → funded research"),
 ]
 
 COLS = 3

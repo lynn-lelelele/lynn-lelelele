@@ -17,76 +17,76 @@
   <circle cx="168" cy="27" r="5" fill="#ffb6c1" opacity="0.5"/>
 
   
-  <!-- Systems Programming -->
+  <!-- University of Auckland -->
   <rect x="20" y="70" width="150" height="80" rx="12"
         fill="white" stroke="#ffb6c1" stroke-width="1.5" filter="url(#shadow)"/>
   <!-- icon circle -->
   <circle cx="95" cy="92" r="16" fill="#ffb6c1" opacity="0.2"/>
-  <text x="95" y="97" font-size="18" text-anchor="middle">💻</text>
+  <text x="95" y="97" font-size="18" text-anchor="middle">🎓</text>
   <!-- title -->
   <text x="95" y="122" font-family="Segoe UI, sans-serif"
-        font-size="13" font-weight="bold" fill="#333" text-anchor="middle">Systems Programming</text>
+        font-size="13" font-weight="bold" fill="#333" text-anchor="middle">University of Auckland</text>
   <!-- desc -->
   <text x="95" y="140" font-family="Segoe UI, sans-serif"
-        font-size="11" fill="#888" text-anchor="middle">C · algorithms · data structures</text>
-  <!-- Python -->
+        font-size="11" fill="#888" text-anchor="middle">BSc Computer Science · 2027 S1</text>
+  <!-- ML Systems -->
   <rect x="194" y="70" width="150" height="80" rx="12"
         fill="white" stroke="#ffb6c1" stroke-width="1.5" filter="url(#shadow)"/>
   <!-- icon circle -->
   <circle cx="269" cy="92" r="16" fill="#ffb6c1" opacity="0.2"/>
-  <text x="269" y="97" font-size="18" text-anchor="middle">🐍</text>
+  <text x="269" y="97" font-size="18" text-anchor="middle">🧠</text>
   <!-- title -->
   <text x="269" y="122" font-family="Segoe UI, sans-serif"
-        font-size="13" font-weight="bold" fill="#333" text-anchor="middle">Python</text>
+        font-size="13" font-weight="bold" fill="#333" text-anchor="middle">ML Systems</text>
   <!-- desc -->
   <text x="269" y="140" font-family="Segoe UI, sans-serif"
-        font-size="11" fill="#888" text-anchor="middle">automation · scripting</text>
-  <!-- Version Control -->
+        font-size="11" fill="#888" text-anchor="middle">training · inference · performance</text>
+  <!-- Python -->
   <rect x="368" y="70" width="150" height="80" rx="12"
         fill="white" stroke="#ffb6c1" stroke-width="1.5" filter="url(#shadow)"/>
   <!-- icon circle -->
   <circle cx="443" cy="92" r="16" fill="#ffb6c1" opacity="0.2"/>
-  <text x="443" y="97" font-size="18" text-anchor="middle">🔧</text>
+  <text x="443" y="97" font-size="18" text-anchor="middle">🐍</text>
   <!-- title -->
   <text x="443" y="122" font-family="Segoe UI, sans-serif"
-        font-size="13" font-weight="bold" fill="#333" text-anchor="middle">Version Control</text>
+        font-size="13" font-weight="bold" fill="#333" text-anchor="middle">Python</text>
   <!-- desc -->
   <text x="443" y="140" font-family="Segoe UI, sans-serif"
-        font-size="11" fill="#888" text-anchor="middle">Git · GitHub · CI/CD</text>
-  <!-- AdvX Hackathon -->
+        font-size="11" fill="#888" text-anchor="middle">projects · tests · documentation</text>
+  <!-- Version Control -->
   <rect x="20" y="174" width="150" height="80" rx="12"
         fill="white" stroke="#ffb6c1" stroke-width="1.5" filter="url(#shadow)"/>
   <!-- icon circle -->
   <circle cx="95" cy="196" r="16" fill="#ffb6c1" opacity="0.2"/>
-  <text x="95" y="201" font-size="18" text-anchor="middle">🏆</text>
+  <text x="95" y="201" font-size="18" text-anchor="middle">🔧</text>
   <!-- title -->
   <text x="95" y="226" font-family="Segoe UI, sans-serif"
-        font-size="13" font-weight="bold" fill="#333" text-anchor="middle">AdvX Hackathon</text>
+        font-size="13" font-weight="bold" fill="#333" text-anchor="middle">Version Control</text>
   <!-- desc -->
   <text x="95" y="244" font-family="Segoe UI, sans-serif"
-        font-size="11" fill="#888" text-anchor="middle">echo · uni-app · shipped</text>
-  <!-- Open Source -->
+        font-size="11" fill="#888" text-anchor="middle">Git · GitHub · reproducible work</text>
+  <!-- Learning in Public -->
   <rect x="194" y="174" width="150" height="80" rx="12"
         fill="white" stroke="#ffb6c1" stroke-width="1.5" filter="url(#shadow)"/>
   <!-- icon circle -->
   <circle cx="269" cy="196" r="16" fill="#ffb6c1" opacity="0.2"/>
-  <text x="269" y="201" font-size="18" text-anchor="middle">📦</text>
+  <text x="269" y="201" font-size="18" text-anchor="middle">📚</text>
   <!-- title -->
   <text x="269" y="226" font-family="Segoe UI, sans-serif"
-        font-size="13" font-weight="bold" fill="#333" text-anchor="middle">Open Source</text>
+        font-size="13" font-weight="bold" fill="#333" text-anchor="middle">Learning in Public</text>
   <!-- desc -->
   <text x="269" y="244" font-family="Segoe UI, sans-serif"
-        font-size="11" fill="#888" text-anchor="middle">cs-journey · public projects</text>
-  <!-- ANU -->
+        font-size="11" fill="#888" text-anchor="middle">cs-journey</text>
+  <!-- Next Milestone -->
   <rect x="368" y="174" width="150" height="80" rx="12"
         fill="white" stroke="#ffb6c1" stroke-width="1.5" filter="url(#shadow)"/>
   <!-- icon circle -->
   <circle cx="443" cy="196" r="16" fill="#ffb6c1" opacity="0.2"/>
-  <text x="443" y="201" font-size="18" text-anchor="middle">🎓</text>
+  <text x="443" y="201" font-size="18" text-anchor="middle">🚀</text>
   <!-- title -->
   <text x="443" y="226" font-family="Segoe UI, sans-serif"
-        font-size="13" font-weight="bold" fill="#333" text-anchor="middle">ANU</text>
+        font-size="13" font-weight="bold" fill="#333" text-anchor="middle">Next Milestone</text>
   <!-- desc -->
   <text x="443" y="244" font-family="Segoe UI, sans-serif"
-        font-size="11" fill="#888" text-anchor="middle">B Advanced Computing</text>
+        font-size="11" fill="#888" text-anchor="middle">BSc(Hons) → funded research</text>
 </svg>
