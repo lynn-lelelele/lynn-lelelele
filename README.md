@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=700&lines=BSc+Computer+Science;Learning+Python%2C+maths%2C+and+systems;Long-term+focus%3A+Machine+Learning+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=700&lines=BSc+Computer+Science;Learning+Python%2C+Linux%2C+and+systems;Focus%3A+Software+Engineering)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,23 +21,25 @@
 
 | | |
 |---|---|
-| **Focus** | Machine Learning Systems · Efficient ML · Inference · Systems Engineering |
-| **Currently learning** | Python fundamentals · Mathematics · CS core foundations |
-| **Tooling** | Linux · Git · GitHub Actions |
-| **Projects** | [cs-journey](https://github.com/lynn-lelelele/cs-journey) · [ml-systems-journey](https://github.com/lynn-lelelele/ml-systems-journey) · [lastcheck](https://github.com/lynn-lelelele/lastcheck) |
+| **Focus** | Software Engineering · Backend · Systems |
+| **Currently learning** | Python fundamentals · Data structures & algorithms · Linux · Systems programming |
+| **Tooling** | Git · GitHub Actions · Android Studio · VS Code |
+| **Projects** | [lastcheck-app](https://github.com/lynn-lelelele/lastcheck-app) · [cs-journey](https://github.com/lynn-lelelele/cs-journey) |
 
 ---
 
 ## Current direction
 
-My long-term interest is **Machine Learning Systems**: the infrastructure, performance, and engineering required to train, serve, and scale machine learning models.
+I am building toward **software engineering** roles.
+
+The part of the work I care most about is software that has to keep working: backend services, systems-level programming, and the engineering practices that make a codebase maintainable over time — tests, continuous integration, clear architecture, and honest documentation.
 
 The current phase is deliberately foundational:
 
 - Python that can support complete, tested projects
-- Linear algebra, probability, calculus, and optimisation
-- Data structures, algorithms, Linux, and Git
-- Clear technical notes and reproducible project evidence
+- Data structures and algorithms, with the reasoning behind them
+- C, Linux, and how programs actually behave at runtime
+- Git workflows and CI, used on every project I ship
 
 I am documenting the journey publicly rather than claiming expertise I do not yet have.
 
@@ -48,9 +50,19 @@ I am documenting the journey publicly rather than claiming expertise I do not ye
 I care about measurable evidence, not just notes. For each project I aim to ship:
 
 - something that runs, with a README another person can follow
-- automated tests
+- automated tests, running in CI
 - a number, where the project is about performance
 - a documented trade-off
+
+---
+
+## Projects
+
+### [lastcheck-app](https://github.com/lynn-lelelele/lastcheck-app)
+An Android app that registers system-level geofences and pushes a packing checklist when you leave a place — no backend required. Flutter, layered architecture, unit tests, CI.
+
+### [cs-journey](https://github.com/lynn-lelelele/cs-journey)
+A structured log of my computer science foundations.
 
 ---
 
