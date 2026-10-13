@@ -24,7 +24,7 @@
 | **Focus** | Software Engineering · Backend · Systems |
 | **Currently learning** | Python fundamentals · Data structures & algorithms · Linux · Systems programming |
 | **Tooling** | Git · GitHub Actions · Android Studio · VS Code |
-| **Projects** | [lastcheck-app](https://github.com/lynn-lelelele/lastcheck-app) · [cs-journey](https://github.com/lynn-lelelele/cs-journey) |
+| **Projects** | [todo-cli](https://github.com/lynn-lelelele/todo-cli) · [lastcheck-app](https://github.com/lynn-lelelele/lastcheck-app) · [cs-journey](https://github.com/lynn-lelelele/cs-journey) |
 
 ---
 
@@ -58,11 +58,15 @@ I care about measurable evidence, not just notes. For each project I aim to ship
 
 ## Projects
 
+### [todo-cli](https://github.com/lynn-lelelele/todo-cli)
+![Flutter CI](https://github.com/lynn-lelelele/todo-cli/actions/workflows/ci.yml/badge.svg)
+A command-line to-do list in pure Python. **My first project written from scratch** — I wrote the spec, designed the data format, and implemented every function myself, then fixed four bugs using the traceback. Handles bad input instead of crashing.
+
 ### [lastcheck-app](https://github.com/lynn-lelelele/lastcheck-app)
-An Android app that registers system-level geofences and pushes a packing checklist when you leave a place — no backend required. Flutter, layered architecture, unit tests, CI.
+An Android app that registers **system-level geofences** and pushes a packing checklist when you leave a place — no backend required. Flutter, layered architecture, 15 unit tests, CI. Built with AI-assisted development: I defined the requirements, tested on real devices, and iterated on the UX.
 
 ### [cs-journey](https://github.com/lynn-lelelele/cs-journey)
-A structured log of my computer science foundations.
+A structured public log of my computer science foundations.
 
 ---
 
